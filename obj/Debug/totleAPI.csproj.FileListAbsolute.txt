@@ -1,0 +1,34 @@
+C:\Users\Sovr6\Desktop\arb_2_platform\totle\bin\Debug\totleAPI.dll
+C:\Users\Sovr6\Desktop\arb_2_platform\totle\bin\Debug\totleAPI.pdb
+C:\Users\Sovr6\Desktop\arb_2_platform\totle\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sovr6\Desktop\arb_2_platform\totle\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sovr6\Desktop\arb_2_platform\totle\obj\Debug\totleAPI.csprojAssemblyReference.cache
+C:\Users\Sovr6\Desktop\arb_2_platform\totle\obj\Debug\totleAPI.csproj.CoreCompileInputs.cache
+C:\Users\Sovr6\Desktop\arb_2_platform\totle\obj\Debug\totleAPI.csproj.CopyComplete
+C:\Users\Sovr6\Desktop\arb_2_platform\totle\obj\Debug\totleAPI.dll
+C:\Users\Sovr6\Desktop\arb_2_platform\totle\obj\Debug\totleAPI.pdb
+C:\Users\Sovr6\OneDrive\Desktop\arb_2_platform\totle\bin\Debug\totleAPI.dll
+C:\Users\Sovr6\OneDrive\Desktop\arb_2_platform\totle\bin\Debug\totleAPI.pdb
+C:\Users\Sovr6\OneDrive\Desktop\arb_2_platform\totle\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sovr6\OneDrive\Desktop\arb_2_platform\totle\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sovr6\OneDrive\Desktop\arb_2_platform\totle\obj\Debug\totleAPI.csprojAssemblyReference.cache
+C:\Users\Sovr6\OneDrive\Desktop\arb_2_platform\totle\obj\Debug\totleAPI.csproj.CopyComplete
+C:\Users\Sovr6\OneDrive\Desktop\arb_2_platform\totle\obj\Debug\totleAPI.dll
+C:\Users\Sovr6\OneDrive\Desktop\arb_2_platform\totle\obj\Debug\totleAPI.pdb
+D:\arb_2_platform\totle\bin\Debug\totleAPI.dll
+D:\arb_2_platform\totle\bin\Debug\totleAPI.pdb
+D:\arb_2_platform\totle\bin\Debug\Newtonsoft.Json.dll
+D:\arb_2_platform\totle\bin\Debug\Newtonsoft.Json.xml
+D:\arb_2_platform\totle\obj\Debug\totleAPI.csprojAssemblyReference.cache
+D:\arb_2_platform\totle\obj\Debug\totleAPI.csproj.CoreCompileInputs.cache
+D:\arb_2_platform\totle\obj\Debug\totleAPI.csproj.CopyComplete
+D:\arb_2_platform\totle\obj\Debug\totleAPI.dll
+D:\arb_2_platform\totle\obj\Debug\totleAPI.pdb
+D:\newSteamLibrary\steamapps\common\AppGameKit Studio\Tier 2\apps\totle\bin\Debug\totleAPI.dll
+D:\newSteamLibrary\steamapps\common\AppGameKit Studio\Tier 2\apps\totle\bin\Debug\totleAPI.pdb
+D:\newSteamLibrary\steamapps\common\AppGameKit Studio\Tier 2\apps\totle\bin\Debug\Newtonsoft.Json.xml
+D:\newSteamLibrary\steamapps\common\AppGameKit Studio\Tier 2\apps\totle\obj\Debug\totleAPI.csprojAssemblyReference.cache
+D:\newSteamLibrary\steamapps\common\AppGameKit Studio\Tier 2\apps\totle\obj\Debug\totleAPI.csproj.CoreCompileInputs.cache
+D:\newSteamLibrary\steamapps\common\AppGameKit Studio\Tier 2\apps\totle\obj\Debug\totleAPI.csproj.CopyComplete
+D:\newSteamLibrary\steamapps\common\AppGameKit Studio\Tier 2\apps\totle\obj\Debug\totleAPI.dll
+D:\newSteamLibrary\steamapps\common\AppGameKit Studio\Tier 2\apps\totle\obj\Debug\totleAPI.pdb
